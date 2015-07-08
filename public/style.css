@@ -1,0 +1,56 @@
+body {
+	 background-color: #00ab59;
+	  /*background: url(http://www.korineumgolf.com/assets/components/phpthumbof/cache/golf.33a9e4b3508e574aea935d8f6c06b1f21.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+  }
+  .Dashboard{
+  	height: 100px;
+  	width: 100%;
+  	position: fixed;
+  	background-color: #01816a;
+  	top: 0;
+  }
+  .siteLogo {
+ 	width: 100%;
+ 	height: 20px;
+ 	text-align: center;
+ }
+.navBar{
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	margin-top: 25px;
+}
+.videoArea{
+	outline: 2px solid black;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 110px;
+	text-align: center;
+	height: 800px;
+	background-color: #02a792;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.video{
+height: 150px;
+width: 220px;
+background-color: #075258;
+outline: 2px solid black;
+margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
