@@ -1,0 +1,4 @@
+	<div class="videoArea">
+	<button ng-click="getVideos()">Get Videos</button>
+	<div class="video" ng-repeat="video in videos"><iframe ng-src= "{{video.url}}" width="250" height="141" frameborder="0" allowfullscreen></iframe> {{video.name}} </div>
+</div>
